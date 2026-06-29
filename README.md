@@ -4,7 +4,7 @@ Power BI project analyzing e-commerce sales data through data cleaning, modellin
 
 ## Project Overview
 
-## E_Commerce Sales Dashboard Preview
+## E-Commerce Sales Dashboard Preview
 ![Python Visualizations](E-Commerce_Sales_Dashboard.png)
 
 ## Python Visualization Preview
