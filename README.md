@@ -2,6 +2,12 @@
 
 ## Project Overview
 
+## E_Commerce Sales Dashboard Preview
+![Python Visualizations](E-Commerce_Sales_Dashboard.png)
+
+## Python Visualization Preview
+![Python Visualizations](Python_Based_Visuals.png)
+
 An Exploratory Data Analysis (EDA) and Business Intelligence project using Power BI to analyse e-commerce sales data and generate actionable insights on sales performance, customers, and products.
 
 The project includes data cleaning, data modelling, DAX calculations, dashboard development, Python visualizations, and MySQL integration.
