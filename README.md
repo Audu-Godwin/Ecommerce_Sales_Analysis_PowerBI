@@ -1,4 +1,6 @@
-# E-Commerce Sales Analysis Dashboard (Power BI)
+# E-Commerce Sales Analysis 
+
+# Power BI project analyzing e-commerce sales data through data cleaning, modelling, DAX calculations, and interactive visualizations. 
 
 ## Project Overview
 
