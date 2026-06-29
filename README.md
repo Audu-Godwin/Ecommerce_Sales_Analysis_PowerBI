@@ -39,21 +39,29 @@ The Sales table served as the main transaction table.
 
 Created 15 DAX measures including:
 
-(-) Total Sales
-(-) Total Orders
-(-) Total Customers
-(-) Total Quantity Sold
-(-) Average Order Value
-(-) Average Sales per Customer
-(-) Maximum Sales
-(-) Minimum Sales
-(-) Product Count
-(-) Average Product Price
-(-) Quantity analysis measures
-(-) Order Status
-(-) Lowest Quantity Sold
-(-) Highest Quantity Sold
-(-) Category Sales
+## DAX Measures Created
+
+15 DAX measures were created to analyse e-commerce sales performance:
+
+## DAX Measures Created
+
+15 DAX measures were created to analyse e-commerce sales performance:
+
+- Total Sales
+- Total Orders
+- Total Customers
+- Total Quantity Sold
+- Average Order Value
+- Average Sales per Customer
+- Maximum Sales
+- Minimum Sales
+- Product Count
+- Average Product Price
+- Quantity Analysis
+- Order Status Analysis
+- Lowest Quantity Sold
+- Highest Quantity Sold
+- Category Sales
 
 Dashboard features:
 
