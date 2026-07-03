@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis 
+⁹# E-Commerce Sales Analysis 
 
 Power BI project analyzing e-commerce sales data through data cleaning, modelling, DAX calculations, and interactive visualizations. 
 
@@ -20,7 +20,6 @@ The project includes data cleaning, data modelling, DAX calculations, dashboard 
 - Power Query
 - DAX
 - Python (Power BI Visuals)
-- MySQL
 
 ## Dataset
 
