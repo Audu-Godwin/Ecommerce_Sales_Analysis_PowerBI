@@ -12,7 +12,7 @@ Power BI project analyzing e-commerce sales data through data cleaning, modellin
 
 An Exploratory Data Analysis (EDA) and Business Intelligence project using Power BI to analyse e-commerce sales data and generate actionable insights on sales performance, customers, and products.
 
-The project includes data cleaning, data modelling, DAX calculations, dashboard development, Python visualizations, and MySQL integration.
+The project includes data cleaning, data modelling, DAX calculations, dashboard development and Python visualization.
 
 ## Tools Used
 
@@ -28,10 +28,6 @@ The analysis uses:
 - Customer Dataset
 - Sales Dataset
 - Product Dataset
-
-An Order table was also imported from MySQL to demonstrate database integration.
-
-## Data Preparation & Modelling
 
 Data was cleaned and transformed using Power Query.
 
