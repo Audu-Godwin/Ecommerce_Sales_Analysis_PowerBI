@@ -39,14 +39,7 @@ The Sales table served as the main transaction table.
 
 ## Analysis & Dashboard
 
-Created 15 DAX measures including:
-
 ## DAX Measures Created
-
-15 DAX measures were created to analyse e-commerce sales performance:
-
-## DAX Measures Created
-
 15 DAX measures were created to analyse e-commerce sales performance:
 
 - Total Sales
@@ -65,7 +58,7 @@ Created 15 DAX measures including:
 - Highest Quantity Sold
 - Category Sales
 
-Dashboard features:
+## Dashboard features:
 
 ### KPI Cards
 - Total Sales
