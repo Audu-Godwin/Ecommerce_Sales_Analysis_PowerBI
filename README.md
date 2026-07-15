@@ -1,10 +1,9 @@
-⁹# E-Commerce Sales Analysis 
-
-## E-Commerce Sales Dashboard Preview
-This is a Power BI project analyzing e-commerce sales data through data cleaning, modelling, DAX calculations, and interactive visualizations. 
+# E-Commerce Sales Analysis 
 
 ## Project Overview
+This is a Power BI project analyzing e-commerce sales data through data cleaning, modelling, DAX calculations, and interactive visualizations. 
 
+## E-Commerce Sales Dashboard Preview
 ![Python Visualizations](E-Commerce_Sales_Dashboard.png)
 
 ## Python Visualization Preview
